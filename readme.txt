@@ -1,8 +1,10 @@
 link flowchart matriks :
 https://drive.google.com/file/d/1TldQMEbhimgDOMgQL8hXAgBm9d-e_0uH/view?usp=sharing
 
-START
 Pseudocode matriks :
+
+START
+
 # Inisialisasi matriks a dan b
 a = [[4, 1, 3], 
      [2, 5, 3], 
